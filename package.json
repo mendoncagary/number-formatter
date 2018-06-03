@@ -1,5 +1,5 @@
 {
-  "name": "number-formatter",
+  "name": "@garylm/number-formatter",
   "version": "0.1.0",
   "description": "A small library that adds commas to numbers",
   "main": "index.js",
